@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/wwwroot/afterlogin.html",
+      "PackagePath": "staticwebassets/afterlogin.html"
+    },
+    {
+      "Id": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.ProductsApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.ProductsApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.build.ProductsApi.props",
+      "PackagePath": "build\\ProductsApi.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.ProductsApi.props",
+      "PackagePath": "buildMultiTargeting\\ProductsApi.props"
+    },
+    {
+      "Id": "obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.ProductsApi.props",
+      "PackagePath": "buildTransitive\\ProductsApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

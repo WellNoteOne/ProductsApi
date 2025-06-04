@@ -1,0 +1,702 @@
+{
+  "Version": 1,
+  "Hash": "Qkb/bWja/UzqzsyfyAa2PrCNFwMtHZ7hhFu6bX3Bjxc=",
+  "Source": "ProductsApi",
+  "BasePath": "_content/ProductsApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductsApi/wwwroot",
+      "Source": "ProductsApi",
+      "ContentRoot": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/wwwroot/",
+      "BasePath": "_content/ProductsApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/44kmbogcmm-cisbmarp9c.gz",
+      "SourceId": "ProductsApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ProductsApi",
+      "RelativePath": "afterlogin#[.{fingerprint=cisbmarp9c}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/wwwroot/afterlogin.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ijeeikooqi",
+      "Integrity": "HuP9Zt84o3FFV6OR8ln93w8I/5x9RwmpBEmAjTfdwTY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/wwwroot/afterlogin.html"
+    },
+    {
+      "Identity": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/eyc84tp2ui-h4nhftrisc.gz",
+      "SourceId": "ProductsApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/ProductsApi",
+      "RelativePath": "index#[.{fingerprint=h4nhftrisc}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "qektw268oi",
+      "Integrity": "biu1MsqoOjSAYnz/nfyc6R92thCdVn7CMqIdoZFK/+E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/wwwroot/afterlogin.html",
+      "SourceId": "ProductsApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/wwwroot/",
+      "BasePath": "_content/ProductsApi",
+      "RelativePath": "afterlogin#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cisbmarp9c",
+      "Integrity": "7GyVoHSksW3e5yD97eyt6rxydiZT0JLoS5iUn6msTgE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/afterlogin.html"
+    },
+    {
+      "Identity": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/wwwroot/index.html",
+      "SourceId": "ProductsApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/wwwroot/",
+      "BasePath": "_content/ProductsApi",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h4nhftrisc",
+      "Integrity": "rz07Td2pxqmyc+7QQI/X31V5iQmW+YSkkXh8EG9kOUc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "afterlogin.cisbmarp9c.html",
+      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/44kmbogcmm-cisbmarp9c.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000781860829"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1278"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HuP9Zt84o3FFV6OR8ln93w8I/5x9RwmpBEmAjTfdwTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 11:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7GyVoHSksW3e5yD97eyt6rxydiZT0JLoS5iUn6msTgE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cisbmarp9c"
+        },
+        {
+          "Name": "label",
+          "Value": "afterlogin.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7GyVoHSksW3e5yD97eyt6rxydiZT0JLoS5iUn6msTgE="
+        }
+      ]
+    },
+    {
+      "Route": "afterlogin.cisbmarp9c.html",
+      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/wwwroot/afterlogin.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3654"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7GyVoHSksW3e5yD97eyt6rxydiZT0JLoS5iUn6msTgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 11:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cisbmarp9c"
+        },
+        {
+          "Name": "label",
+          "Value": "afterlogin.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7GyVoHSksW3e5yD97eyt6rxydiZT0JLoS5iUn6msTgE="
+        }
+      ]
+    },
+    {
+      "Route": "afterlogin.cisbmarp9c.html.gz",
+      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/44kmbogcmm-cisbmarp9c.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HuP9Zt84o3FFV6OR8ln93w8I/5x9RwmpBEmAjTfdwTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 11:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cisbmarp9c"
+        },
+        {
+          "Name": "label",
+          "Value": "afterlogin.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HuP9Zt84o3FFV6OR8ln93w8I/5x9RwmpBEmAjTfdwTY="
+        }
+      ]
+    },
+    {
+      "Route": "afterlogin.html",
+      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/44kmbogcmm-cisbmarp9c.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000781860829"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1278"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HuP9Zt84o3FFV6OR8ln93w8I/5x9RwmpBEmAjTfdwTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 11:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7GyVoHSksW3e5yD97eyt6rxydiZT0JLoS5iUn6msTgE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7GyVoHSksW3e5yD97eyt6rxydiZT0JLoS5iUn6msTgE="
+        }
+      ]
+    },
+    {
+      "Route": "afterlogin.html",
+      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/wwwroot/afterlogin.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3654"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7GyVoHSksW3e5yD97eyt6rxydiZT0JLoS5iUn6msTgE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 11:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7GyVoHSksW3e5yD97eyt6rxydiZT0JLoS5iUn6msTgE="
+        }
+      ]
+    },
+    {
+      "Route": "afterlogin.html.gz",
+      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/44kmbogcmm-cisbmarp9c.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1278"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HuP9Zt84o3FFV6OR8ln93w8I/5x9RwmpBEmAjTfdwTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 11:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HuP9Zt84o3FFV6OR8ln93w8I/5x9RwmpBEmAjTfdwTY="
+        }
+      ]
+    },
+    {
+      "Route": "index.h4nhftrisc.html",
+      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/eyc84tp2ui-h4nhftrisc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001872659176"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "533"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"biu1MsqoOjSAYnz/nfyc6R92thCdVn7CMqIdoZFK/+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 11:42:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rz07Td2pxqmyc+7QQI/X31V5iQmW+YSkkXh8EG9kOUc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h4nhftrisc"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rz07Td2pxqmyc+7QQI/X31V5iQmW+YSkkXh8EG9kOUc="
+        }
+      ]
+    },
+    {
+      "Route": "index.h4nhftrisc.html",
+      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "867"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rz07Td2pxqmyc+7QQI/X31V5iQmW+YSkkXh8EG9kOUc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 11:42:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h4nhftrisc"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rz07Td2pxqmyc+7QQI/X31V5iQmW+YSkkXh8EG9kOUc="
+        }
+      ]
+    },
+    {
+      "Route": "index.h4nhftrisc.html.gz",
+      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/eyc84tp2ui-h4nhftrisc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"biu1MsqoOjSAYnz/nfyc6R92thCdVn7CMqIdoZFK/+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 11:42:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h4nhftrisc"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-biu1MsqoOjSAYnz/nfyc6R92thCdVn7CMqIdoZFK/+E="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/eyc84tp2ui-h4nhftrisc.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001872659176"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "533"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"biu1MsqoOjSAYnz/nfyc6R92thCdVn7CMqIdoZFK/+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 11:42:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rz07Td2pxqmyc+7QQI/X31V5iQmW+YSkkXh8EG9kOUc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rz07Td2pxqmyc+7QQI/X31V5iQmW+YSkkXh8EG9kOUc="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "867"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rz07Td2pxqmyc+7QQI/X31V5iQmW+YSkkXh8EG9kOUc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 11:42:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rz07Td2pxqmyc+7QQI/X31V5iQmW+YSkkXh8EG9kOUc="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/eyc84tp2ui-h4nhftrisc.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "533"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"biu1MsqoOjSAYnz/nfyc6R92thCdVn7CMqIdoZFK/+E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 11:42:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-biu1MsqoOjSAYnz/nfyc6R92thCdVn7CMqIdoZFK/+E="
+        }
+      ]
+    }
+  ]
+}

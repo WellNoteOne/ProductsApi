@@ -1,0 +1,28 @@
+{
+    "version": "0.2.0",
+    "compounds": [
+        {
+            "name": "Run API and Frontend",
+            "configurations": ["Launch API", "Launch Frontend"]
+        }
+    ],
+    "configurations": [
+        {
+            "name": "Launch API",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/ProductsApi",
+            "cwd": "${workspaceFolder}/ProductsApi",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Launch Frontend",
+            "type": "node",
+            "request": "launch",
+            "cwd": "${workspaceFolder}/frontend",
+            "runtimeExecutable": "python3",
+            "runtimeArgs": ["-m", "http.server", "5000"]
+        }
+    ]
+}
