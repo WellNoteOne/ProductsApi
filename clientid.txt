@@ -1,3 +1,0 @@
-clientId = "490439995551-.apps.googleusercontent.com"
-
-clientSic = "GOCSPX-TiIAQMSxn2"
