@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Qkb/bWja/UzqzsyfyAa2PrCNFwMtHZ7hhFu6bX3Bjxc=",
+  "Hash": "1mTdYATcm/jhXobajngIzGhnI7ADTUq32jZdzxOvUeQ=",
   "Source": "ProductsApi",
   "BasePath": "_content/ProductsApi",
   "Mode": "Default",
@@ -17,12 +17,12 @@
   ],
   "Assets": [
     {
-      "Identity": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/44kmbogcmm-cisbmarp9c.gz",
+      "Identity": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/44kmbogcmm-nh852hkrzb.gz",
       "SourceId": "ProductsApi",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/ProductsApi",
-      "RelativePath": "afterlogin#[.{fingerprint=cisbmarp9c}]?.html.gz",
+      "RelativePath": "afterlogin#[.{fingerprint=nh852hkrzb}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -31,8 +31,8 @@
       "RelatedAsset": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/wwwroot/afterlogin.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ijeeikooqi",
-      "Integrity": "HuP9Zt84o3FFV6OR8ln93w8I/5x9RwmpBEmAjTfdwTY=",
+      "Fingerprint": "v0mnvcg1ss",
+      "Integrity": "Pz4WrB/R3egGtU4ztq4Y740pXFsJM90hOnkEZD+Bmw4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/wwwroot/afterlogin.html"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "cisbmarp9c",
-      "Integrity": "7GyVoHSksW3e5yD97eyt6rxydiZT0JLoS5iUn6msTgE=",
+      "Fingerprint": "nh852hkrzb",
+      "Integrity": "O+AI7asvEPBxMGFokn6PKkREmLh1Tw5MrketoI+0cgY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/afterlogin.html"
@@ -103,13 +103,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "afterlogin.cisbmarp9c.html",
-      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/44kmbogcmm-cisbmarp9c.gz",
+      "Route": "afterlogin.html",
+      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/44kmbogcmm-nh852hkrzb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000781860829"
+          "Quality": "0.000780031201"
         }
       ],
       "ResponseHeaders": [
@@ -119,19 +119,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1278"
+          "Value": "1281"
         },
         {
           "Name": "ETag",
-          "Value": "\"HuP9Zt84o3FFV6OR8ln93w8I/5x9RwmpBEmAjTfdwTY=\""
+          "Value": "\"Pz4WrB/R3egGtU4ztq4Y740pXFsJM90hOnkEZD+Bmw4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 11:48:23 GMT"
+          "Value": "Mon, 09 Jun 2025 18:20:43 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -147,26 +147,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"7GyVoHSksW3e5yD97eyt6rxydiZT0JLoS5iUn6msTgE=\""
+          "Value": "W/\"O+AI7asvEPBxMGFokn6PKkREmLh1Tw5MrketoI+0cgY=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "cisbmarp9c"
-        },
-        {
-          "Name": "label",
-          "Value": "afterlogin.html"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-7GyVoHSksW3e5yD97eyt6rxydiZT0JLoS5iUn6msTgE="
+          "Value": "sha256-O+AI7asvEPBxMGFokn6PKkREmLh1Tw5MrketoI+0cgY="
         }
       ]
     },
     {
-      "Route": "afterlogin.cisbmarp9c.html",
+      "Route": "afterlogin.html",
       "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/wwwroot/afterlogin.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -176,7 +168,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3654"
+          "Value": "3655"
         },
         {
           "Name": "Content-Type",
@@ -184,11 +176,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"7GyVoHSksW3e5yD97eyt6rxydiZT0JLoS5iUn6msTgE=\""
+          "Value": "\"O+AI7asvEPBxMGFokn6PKkREmLh1Tw5MrketoI+0cgY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 11:48:23 GMT"
+          "Value": "Mon, 09 Jun 2025 18:20:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O+AI7asvEPBxMGFokn6PKkREmLh1Tw5MrketoI+0cgY="
+        }
+      ]
+    },
+    {
+      "Route": "afterlogin.html.gz",
+      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/44kmbogcmm-nh852hkrzb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1281"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pz4WrB/R3egGtU4ztq4Y740pXFsJM90hOnkEZD+Bmw4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 18:20:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Pz4WrB/R3egGtU4ztq4Y740pXFsJM90hOnkEZD+Bmw4="
+        }
+      ]
+    },
+    {
+      "Route": "afterlogin.nh852hkrzb.html",
+      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/44kmbogcmm-nh852hkrzb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000780031201"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1281"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Pz4WrB/R3egGtU4ztq4Y740pXFsJM90hOnkEZD+Bmw4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 18:20:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"O+AI7asvEPBxMGFokn6PKkREmLh1Tw5MrketoI+0cgY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nh852hkrzb"
+        },
+        {
+          "Name": "label",
+          "Value": "afterlogin.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O+AI7asvEPBxMGFokn6PKkREmLh1Tw5MrketoI+0cgY="
+        }
+      ]
+    },
+    {
+      "Route": "afterlogin.nh852hkrzb.html",
+      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/wwwroot/afterlogin.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3655"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O+AI7asvEPBxMGFokn6PKkREmLh1Tw5MrketoI+0cgY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 09 Jun 2025 18:20:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -198,7 +335,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cisbmarp9c"
+          "Value": "nh852hkrzb"
         },
         {
           "Name": "label",
@@ -206,13 +343,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-7GyVoHSksW3e5yD97eyt6rxydiZT0JLoS5iUn6msTgE="
+          "Value": "sha256-O+AI7asvEPBxMGFokn6PKkREmLh1Tw5MrketoI+0cgY="
         }
       ]
     },
     {
-      "Route": "afterlogin.cisbmarp9c.html.gz",
-      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/44kmbogcmm-cisbmarp9c.gz",
+      "Route": "afterlogin.nh852hkrzb.html.gz",
+      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/44kmbogcmm-nh852hkrzb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -221,7 +358,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1278"
+          "Value": "1281"
         },
         {
           "Name": "Content-Type",
@@ -229,11 +366,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"HuP9Zt84o3FFV6OR8ln93w8I/5x9RwmpBEmAjTfdwTY=\""
+          "Value": "\"Pz4WrB/R3egGtU4ztq4Y740pXFsJM90hOnkEZD+Bmw4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 11:48:23 GMT"
+          "Value": "Mon, 09 Jun 2025 18:20:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -251,7 +388,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "cisbmarp9c"
+          "Value": "nh852hkrzb"
         },
         {
           "Name": "label",
@@ -259,144 +396,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-HuP9Zt84o3FFV6OR8ln93w8I/5x9RwmpBEmAjTfdwTY="
-        }
-      ]
-    },
-    {
-      "Route": "afterlogin.html",
-      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/44kmbogcmm-cisbmarp9c.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000781860829"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1278"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HuP9Zt84o3FFV6OR8ln93w8I/5x9RwmpBEmAjTfdwTY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 11:48:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"7GyVoHSksW3e5yD97eyt6rxydiZT0JLoS5iUn6msTgE=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-7GyVoHSksW3e5yD97eyt6rxydiZT0JLoS5iUn6msTgE="
-        }
-      ]
-    },
-    {
-      "Route": "afterlogin.html",
-      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/wwwroot/afterlogin.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3654"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"7GyVoHSksW3e5yD97eyt6rxydiZT0JLoS5iUn6msTgE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 11:48:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-7GyVoHSksW3e5yD97eyt6rxydiZT0JLoS5iUn6msTgE="
-        }
-      ]
-    },
-    {
-      "Route": "afterlogin.html.gz",
-      "AssetFile": "/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/44kmbogcmm-cisbmarp9c.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1278"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"HuP9Zt84o3FFV6OR8ln93w8I/5x9RwmpBEmAjTfdwTY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 07 May 2025 11:48:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-HuP9Zt84o3FFV6OR8ln93w8I/5x9RwmpBEmAjTfdwTY="
+          "Value": "sha256-Pz4WrB/R3egGtU4ztq4Y740pXFsJM90hOnkEZD+Bmw4="
         }
       ]
     },
