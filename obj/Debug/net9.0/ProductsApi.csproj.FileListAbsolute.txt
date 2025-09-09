@@ -53,4 +53,4 @@
 /Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/bin/Debug/net9.0/ProductsApi.staticwebassets.runtime.json
 /Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/eyc84tp2ui-h4nhftrisc.gz
 /Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/ProductsApi.sourcelink.json
-/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/44kmbogcmm-nh852hkrzb.gz
+/Users/s2401575/Documents/portfolio/ohjelmistokehittajana-toimiminen/aspnet-jatko/ProductsApi/obj/Debug/net9.0/compressed/44kmbogcmm-94b0qdyb31.gz
